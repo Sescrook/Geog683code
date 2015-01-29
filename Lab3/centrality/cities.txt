@@ -1,0 +1,4 @@
+Seattle 3 26
+Las_Vegas 11 10
+Los_Angeles 4 8
+San_Diego 7 5

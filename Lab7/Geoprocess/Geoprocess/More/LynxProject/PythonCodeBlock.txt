@@ -1,0 +1,9 @@
+def reclass(elevzone):
+    if (elevzone >= 14 and elevzone <= 20):
+        return 9
+    elif (elevzone >= 10 and elevzone <= 13):
+        return 5
+    elif (elevzone <= 9):
+        return 1
+    elif (elevzone >= 21):
+        return 7
